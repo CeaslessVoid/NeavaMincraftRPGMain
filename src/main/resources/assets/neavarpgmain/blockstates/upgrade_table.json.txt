@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model":  "neavarpgmain:block/upgrade_table"
+    }
+  }
+}

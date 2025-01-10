@@ -1,0 +1,9 @@
+{
+  "item.neavarpgmain.substatmodgem": "TEMP",
+  "block.neavarpgmain.upgrade_table": "Upgrade Table",
+
+
+  "creativetab.neava_rpg_tab": "Neava's RPG Mod",
+  "tooltip.neavarpgmain.weapondamage": "+%s Attack",
+  "tooltip.neavarpgmain.notneavarpgstat": "§9[This item does not have any Neava RPG stats§r"
+}
